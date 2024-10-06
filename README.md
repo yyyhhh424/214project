@@ -1,45 +1,19 @@
-# FlyDreamAir Web Application
-
-This project is aimed at developing a web application for **FlyDreamAir** to help users manage flight bookings, select seats, and purchase in-flight services easily. The system supports the airline's digital transformation efforts, enhancing the overall user experience.
+# FlyDreamAir Booking System
 
 ## Project Overview
-
-The FlyDreamAir web application allows customers to:
-- Book and manage flights
-- Select and customize seating preferences
-- Purchase and manage in-flight services
-
-## Table of Contents
-
-1. [Project Overview](#project-overview)
-2. [Technologies Used](#technologies-used)
-3. [Features](#features)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
-
-## Technologies Used
-
-- Frontend: HTML, CSS, JavaScript
-- Backend: Python (Django) / Node.js (Express)
-- Database: PostgreSQL / MySQL
-- Deployment: Docker, Heroku, AWS
-- Version Control: Git
+The FlyDreamAir Booking System is a comprehensive web application designed to streamline the flight booking process, enhance customer interactions, and modernize the airline's digital infrastructure. The project aims to improve user experience by allowing customers to book flights, manage reservations, select seats, and purchase in-flight services through a user-friendly interface.
 
 ## Features
-
-- **Flight Booking**: Users can search for and book flights.
-- **Seat Selection**: Choose seat preferences during booking.
-- **In-Flight Services**: Manage and purchase in-flight services.
-- **User Authentication**: Secure login and account management.
-- **Responsive Design**: Optimized for desktop and mobile devices.
+- **User-friendly interface** for booking and managing flights.
+- **Real-time booking** capabilities with modifications and cancellations.
+- Interactive seat selection through an **interactive seat map**.
+- Options for purchasing meals and beverages during or before flights.
+- Management of customer profiles, including personal information and booking history.
+- Support for multiple languages and regional settings.
+- Accessible via both web and mobile platforms.
 
 ## Installation
-
-### Steps
-
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/FlyDreamAir-WebApp.git
-   cd FlyDreamAir-WebApp
+   git clone https://github.com/your-username/FlyDreamAir-Booking-System.git
+
